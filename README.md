@@ -1,2 +1,32 @@
-# bmi-calculator-python
-A simple BMI Calculator built with Python. This program takes a user’s weight and height as input, calculates their Body Mass Index (BMI), and classifies the result into categories such as underweight, normal, overweight, and obese. A beginner-friendly project to practice Python basics.
+🧮 BMI Calculator
+
+This is a simple project I made using Python.
+The program asks for your name, weight, and height, then calculates your Body Mass Index (BMI) and tells you if you are underweight, normal, overweight, or obese.
+
+📋 What It Does
+
+Takes user input for name, weight, and height
+
+Calculates your BMI
+
+Shows your BMI category
+
+Easy to understand and run for beginners
+
+🎯 Purpose
+
+I built this project to practice Python basics such as:
+
+Taking user input
+
+Doing math calculations
+
+Using if-else conditions
+
+📈 Example
+
+You enter your information → The program calculates your BMI → You get your result and health category.
+
+👨‍💻 Author
+
+Aswad Islam
